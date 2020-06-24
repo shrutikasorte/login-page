@@ -1,0 +1,15 @@
+body{background-image:url{page.jpg}}
+.e{width:100%;}
+.a{background:white;border: black solid 1px; width:25%;height:70%;padding:20px;margin:60px;border-radius:10px;position:relative;left:500px;}
+.b{position:relative;left:200px;top:-64px;}
+.c{position:relative;left:200px;top:-51px;line-height:40px;}
+.d{position:relative;top:-50px;}
+.f{position:relative;top:-50px;}
+.g{position:relative;top:-30px;}
+.h{background:white;border: black solid 1px;width:25%;height:40%;padding:20px;margin:60px;border-radius:10px;position:relative;left:500px;}
+.i{width:100%;}
+.s{position:relative;top:-40px;}
+.error{color:green;}
+
+.as{border:black solid 5px;width:50%;height:30%;background:white;position:relative;left:400px;}
+.y{color:red;}
